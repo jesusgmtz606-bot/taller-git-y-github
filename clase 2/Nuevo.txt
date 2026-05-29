@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hola mundo desde GitHub
 Buenas tardes
 
@@ -5,3 +6,6 @@ Buenas tardes
 
 
 
+=======
+Hola mundo desde el otro lado
+>>>>>>> 762f694094fa0f67e9811d7c22a6481203792590
